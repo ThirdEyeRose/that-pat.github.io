@@ -11,25 +11,31 @@ The below icons will help you identify the type of resources.
 
 :book: - This indicates that the resource is a free online book. Many of these have physical versions for sale as well.
 
+:page_facing_up: - This indicates an article or series of articles available on the web.
+
+:computer: - This indicates an interactive tutorial that you can do on the web.
+
+:house_with_garden: - This indicates a community of people.
+
 ## Soft Skills
 
 ### Customer Support
 
 :closed_book: [The Customer Support Handbook](https://smile.amazon.com/Customer-Support-Handbook-Ultimate-Experience/dp/0615962017)
 
-[Customer Happiness Shouldn’t Be a Novelty](https://www.helpscout.net/blog/happy-customer-service/)
+:page_facing_up: [Customer Happiness Shouldn’t Be a Novelty](https://www.helpscout.net/blog/happy-customer-service/)
 
 :closed_book: [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://smile.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220/ref=sr_1_1?s=books&ie=UTF8&qid=1499088159&sr=1-1&keywords=zappos+delivering+happiness)
 
 ### Emotional Intelligence
 
-[School of Support: Taking the Right Tone](https://www.helpscout.net/blog/talking-to-customers-tone/)
+:page_facing_up: [School of Support: Taking the Right Tone](https://www.helpscout.net/blog/talking-to-customers-tone/)
 
 :closed_book: [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/Emotional-Intelligence-featured-Leader-Goleman/dp/1633690199/ref=sr_1_1?s=books&ie=UTF8&qid=1499087517&sr=1-1&keywords=hbr+emotional+intelligence)
 
-[How to Apologize: 5 Elements of a Successful ‘I’m Sorry’](https://www.helpscout.net/blog/how-to-apologize/)
+:page_facing_up: [How to Apologize: 5 Elements of a Successful ‘I’m Sorry’](https://www.helpscout.net/blog/how-to-apologize/)
 
-[Support 101: How to Have Difficult Conversations](https://www.helpscout.net/blog/difficult-conversations/)
+:page_facing_up: [Support 101: How to Have Difficult Conversations](https://www.helpscout.net/blog/difficult-conversations/)
 
 :closed_book: [Nonviolent Communication: A Language of Life](https://smile.amazon.com/gp/product/189200528X/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1)
 
@@ -41,35 +47,35 @@ The below icons will help you identify the type of resources.
 
 ### Problem Solving
 
-[Troubleshooting with the Scientific Method](http://www.inetdaemon.com/tutorials/troubleshooting/scientific_method.shtml)
+:page_facing_up: [Troubleshooting with the Scientific Method](http://www.inetdaemon.com/tutorials/troubleshooting/scientific_method.shtml)
 
-[Occam's Razor](https://explorable.com/occams-razor)
+:page_facing_up: [Occam's Razor](https://explorable.com/occams-razor)
 
 ### Personal Purpose and Development
 
-[The Value of Doing Things That Scare You](https://www.helpscout.net/blog/do-things-that-scare-you/)
+:page_facing_up: [The Value of Doing Things That Scare You](https://www.helpscout.net/blog/do-things-that-scare-you/)
 
-[The Art and Science of Getting into the Flow](https://www.helpscout.net/blog/getting-in-flow/)
+:page_facing_up: [The Art and Science of Getting into the Flow](https://www.helpscout.net/blog/getting-in-flow/)
 
 :closed_book: [Flow: The Psychology of Optimal Experience](https://smile.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202/ref=sr_1_1?s=books&ie=UTF8&qid=1499088375&sr=1-1&keywords=flow)
 
-[How to Work a 40-Hour Week](https://www.helpscout.net/blog/40-hour-work-week/)
+:page_facing_up: [How to Work a 40-Hour Week](https://www.helpscout.net/blog/40-hour-work-week/)
 
 :closed_book: [Essentialism: The Disciplined Pursuit of Less](https://smile.amazon.com/gp/product/0804137382/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
 
 ### Remote Life and Work
 
-[Becoming a Digital Nomad: the Good, the Bad, and the Ugly](https://www.helpscout.net/blog/digital-nomad/)
+:page_facing_up: [Becoming a Digital Nomad: the Good, the Bad, and the Ugly](https://www.helpscout.net/blog/digital-nomad/)
 
-[How Our Remote Support Team Collaborates](https://www.helpscout.net/blog/remote-customer-service/)
+:page_facing_up: [How Our Remote Support Team Collaborates](https://www.helpscout.net/blog/remote-customer-service/)
 
 ### Career Development
 
-[Support Driven community](https://supportdriven.com/) - Okay, so this isn't exactly a resource like all of the others on this list. This is a community where 2000+ of the best support professionals hang out on a daily basis and put together amazing conferences every year. If you really want to build a career in customer support, this is one of the best resources that you can take advantage of.
+:house_with_garden: [Support Driven community](https://supportdriven.com/) - Okay, so this isn't exactly a resource like all of the others on this list. This is a community where 2000+ of the best support professionals hang out on a daily basis and put together amazing conferences every year. If you really want to build a career in customer support, this is one of the best resources that you can take advantage of.
 
-[Writing the Perfect Customer Service Résumé Is Easier Than You Think](https://www.helpscout.net/blog/customer-service-resume/)
+:page_facing_up: [Writing the Perfect Customer Service Résumé Is Easier Than You Think](https://www.helpscout.net/blog/customer-service-resume/)
 
-[Growing a Successful and Rewarding Career in Customer Support](https://www.helpscout.net/blog/customer-service-career-path/)
+:page_facing_up: [Growing a Successful and Rewarding Career in Customer Support](https://www.helpscout.net/blog/customer-service-career-path/)
 
 ## Technical Skills
 
@@ -87,11 +93,11 @@ The below icons will help you identify the type of resources.
 
 :book: [Rails Tutorial by Michael Hartl](https://www.railstutorial.org/book)
 
-:book: [Eloquent Javascript](http://eloquentjavascript.net/)
+:book: :computer: [Eloquent Javascript](http://eloquentjavascript.net/)
 
 ### Networking
 
-[Networking Tutorials - InetDaemon's IT Tutorials](http://www.inetdaemon.com/tutorials/networking/)
+:page_facing_up: [Networking Tutorials - InetDaemon's IT Tutorials](http://www.inetdaemon.com/tutorials/networking/)
 
 ---
 _Thanks to @ethan of Support Driven for contributing resources to this list._
