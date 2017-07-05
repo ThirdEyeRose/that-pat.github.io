@@ -21,7 +21,7 @@ The below icons will help you identify the type of resources.
 
 ### Customer Support
 
-:closed_book: [The Customer Support Handbook](https://smile.amazon.com/Customer-Support-Handbook-Ultimate-Experience/dp/0615962017)
+:closed_book: [The Customer Support Handbook](https://smile.amazon.com/Customer-Support-Handbook-Ultimate-Experience/dp/0615962017) - This book written by Sarah Hatter of CoSupport is an extremely cathartic and powerful read for anyone working in customer support. Whether you're completely new to customer support or an old veteran of it, I highly recommend this book.
 
 :page_facing_up: [Customer Happiness Shouldn’t Be a Novelty](https://www.helpscout.net/blog/happy-customer-service/)
 
