@@ -95,6 +95,8 @@ The below icons will help you identify the type of resources.
 
 :book: :computer: [Eloquent Javascript](http://eloquentjavascript.net/)
 
+:computer: [FreeCodeCamp](https://www.freecodecamp.org/)
+
 ### Networking
 
 :page_facing_up: [Networking Tutorials - InetDaemon's IT Tutorials](http://www.inetdaemon.com/tutorials/networking/)
