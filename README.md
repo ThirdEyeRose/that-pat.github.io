@@ -33,6 +33,10 @@ Some of the below resources are books and some are blog articles (and still othe
 
 ### Problem Solving
 
+[Troubleshooting with the Scientific Method](http://www.inetdaemon.com/tutorials/troubleshooting/scientific_method.shtml)
+
+[Occam's Razor](https://explorable.com/occams-razor)
+
 ### Personal Purpose and Development
 
 [The Value of Doing Things That Scare You](https://www.helpscout.net/blog/do-things-that-scare-you/)
@@ -78,3 +82,8 @@ Some of the below resources are books and some are blog articles (and still othe
 [Eloquent Javascript](http://eloquentjavascript.net/)
 
 ### Networking
+
+[Networking Tutorials - InetDaemon's IT Tutorials](http://www.inetdaemon.com/tutorials/networking/)
+
+---
+_Thanks to @ethan of Support Driven for contributing resources to this list._
